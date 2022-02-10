@@ -6,7 +6,6 @@
 
 <!-- PROJECT MENU -->
 <p align="center">
-  <a href="#logo">Logo</a> &#xa0; | &#xa0; 
   <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#site">Site</a> &#xa0; | &#xa0; 
   <a href="#tecnologias">Tecnologias</a> &#xa0; | &#xa0;
@@ -17,13 +16,6 @@
   <a href="#requisitos">Pré requisitos</a> &#xa0; | &#xa0;   
   <a href="#desenvolvedores">Desenvolvedores</a> &#xa0; 
 </p>
-
-<!-- PROJECT LOGO -->
-<h2 id="logo"> :framed_picture:  Logo </h2>
-
-   Logo para fundo escuro            |       Logo para fundo claro:
-:-----------------------------------:|:-----------------------------------:
-<img alt= "Logo branco" src="https://user-images.githubusercontent.com/78452566/140055243-4d254c00-03c6-483f-b663-3ce8b8610b3e.png"  width="200px" />  |  <img alt= "Logo preto" src="https://user-images.githubusercontent.com/78452566/140569091-d693d327-1d60-4c64-a8d2-62d7ad6c71ac.png"  width="200px"  />
 
 
 
