@@ -1,12 +1,8 @@
 
 
 <!-- PROJECT TITLE -->
-<h1 align='center'id="top"> :rocket: == Projeto Final de Front-End == :rocket: </h1>
+<h1 align='center'id="top">  == CUBO Front-End ==  </h1>
 
-<!-- LICENSE -->
-<p align="center">
-  <a href="https://choosealicense.com/licenses/mit/" target="_blank"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=informational"></a>
- </p>
 
 <!-- PROJECT MENU -->
 <p align="center">
