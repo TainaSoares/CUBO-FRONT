@@ -31,7 +31,7 @@
 <!-- <a href="https://documenter.getpostman.com/view/17588210/UVeKoQA2" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
 
 <!-- PROJECT BACK-END -->
-<h2 id="back">:earth_americas: Link do Postman API </h2>
+<h2 id="back">:earth_americas: Link do GitHub Back-End </h2>
 <p>🔗 <a href="https://github.com/TainaSoares/CUBO-BACK" target="_blank"> BACK-END CUBO </a>  </p>
 <!-- <a href="https://github.com/TainaSoares/CUBO-BACK" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
 
