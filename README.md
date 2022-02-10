@@ -8,13 +8,10 @@
 <p align="center">
   <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#site">Site</a> &#xa0; | &#xa0; 
+  <a href="#api">API</a> &#xa0; | &#xa0;
+  <a href="#back">BACK-END</a> &#xa0; | &#xa0;
   <a href="#tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#funciona">Funcionalidades</a> &#xa0; | &#xa0;  
-  <a href="#pendente">Pendências</a> &#xa0; | &#xa0;
-  <a href="#imagens">Imagens</a> &#xa0; | &#xa0;  
-  <a href="#wireframe"> Wireframe</a> &#xa0; | &#xa0;
-  <a href="#requisitos">Pré requisitos</a> &#xa0; | &#xa0;   
-  <a href="#desenvolvedores">Desenvolvedores</a> &#xa0; 
 </p>
 
 
@@ -27,6 +24,16 @@
 <h2 id="site">:earth_americas: Link do site </h2>
 <p>🔗 <a href="https://late-beginner.surge.sh/" target="_blank"> CASE CUBO </a>  </p>
 <!-- <a href="https://late-beginner.surge.sh/" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
+
+<!-- PROJECT POSTMAN -->
+<h2 id="api">:earth_americas: Link do Postman API </h2>
+<p>🔗 <a href="https://documenter.getpostman.com/view/17588210/UVeKoQA2" target="_blank"> API CUBO </a>  </p>
+<!-- <a href="https://documenter.getpostman.com/view/17588210/UVeKoQA2" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
+
+<!-- PROJECT BACK-END -->
+<h2 id="back">:earth_americas: Link do Postman API </h2>
+<p>🔗 <a href="https://github.com/TainaSoares/CUBO-BACK" target="_blank"> BACK-END CUBO </a>  </p>
+<!-- <a href="https://github.com/TainaSoares/CUBO-BACK" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
 
 <!-- PROJECT TECHNOLOGIES -->
 <h2 id="tecnologias"> 🛠 Tecnologias </h2>
@@ -51,16 +58,6 @@ Abaixo segue o que foi utilizado na criação deste projeto:
 ### Integração com API
 - [x] Get all users;
 - [x] Insert users informations;
-
-
-<!-- PROJECT GIF-->
-<h2 id="imagens">:iphone: Gif Mobile</h2>
-
-https://user-images.githubusercontent.com/78452566/140591159-22bf2556-e593-4532-b915-1afa4bbfc9cc.mp4
-
-
-
-
   
 <a href="#top">Voltar para o topo</a>
 
