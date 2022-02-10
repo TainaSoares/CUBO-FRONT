@@ -58,7 +58,7 @@ const ChartPieData = () => {
                     })}
                 <ItemLegend color={colors[states.users.length % (colors.length)]}>
                     <div></div>
-                    <p>Ownerles</p>
+                    <p>Ownerless</p>
                 </ItemLegend>
             </Legend>
         </ContainerChartPieDate>

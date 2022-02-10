@@ -8,8 +8,8 @@ export const useRequestData = (initialState, url, config = {}) => {
             .then((res) => {
                 setData(res.data)
             })
-            .catch(err => {
-                alert("Deu ruim")
+            .catch(error => {
+                alert("Algo está errado")
             })
     }
 

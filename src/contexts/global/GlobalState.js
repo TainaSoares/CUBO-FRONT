@@ -4,7 +4,7 @@ import { GlobalContext } from "./GlobalContext"
 
 const GlobalState = ({ children }) => {
     const [users, requestUser] =  useRequestData([],
-         `${baseURL}/user/all`)
+         `${baseURL}/user`)
 
     const states = { users };
     const request = { requestUser }
